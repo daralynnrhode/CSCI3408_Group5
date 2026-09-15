@@ -1,6 +1,6 @@
 # CSCI3408_Group5
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Documentation Repo for Group 5 (GriffMonster Entrepreneurs) For CU CSCI 3408 F26-SP27
 
@@ -16,6 +16,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/briebrocato1"><img src="https://avatars.githubusercontent.com/u/143981670?v=4?s=100" width="100px;" alt="Brie Brocato"/><br /><sub><b>Brie Brocato</b></sub></a><br /><a href="https://github.com/daralynnrhode/CSCI3408_Group5/commits?author=briebrocato1" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/daralynnrhode"><img src="https://avatars.githubusercontent.com/u/143308810?v=4?s=100" width="100px;" alt="Daralynn Rhode"/><br /><sub><b>Daralynn Rhode</b></sub></a><br /><a href="https://github.com/daralynnrhode/CSCI3408_Group5/commits?author=daralynnrhode" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/OliverDSchmitz"><img src="https://avatars.githubusercontent.com/u/179749129?v=4?s=100" width="100px;" alt="Oliver D Schmitz"/><br /><sub><b>Oliver D Schmitz</b></sub></a><br /><a href="https://github.com/daralynnrhode/CSCI3408_Group5/commits?author=OliverDSchmitz" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
